@@ -1,0 +1,4 @@
+#Mon Nov 28 13:13:12 IST 2022
+base.0=D\:\\Majrekar\\newDevelopment2022\\MajrekarApp_ward\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

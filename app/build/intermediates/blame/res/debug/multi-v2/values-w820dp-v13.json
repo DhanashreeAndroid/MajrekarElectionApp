@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Majrekar\\newDevelopment2022\\MajrekarApp_ward\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Majrekar\\newDevelopment2022\\MajrekarApp_ward\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "14,9,10,5,4,3,8,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "676,305,357,109,64,21,257,160,209",
+                        "endColumns": "57,50,39,49,43,41,46,47,46",
+                        "endOffsets": "729,351,392,154,103,58,299,203,251"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,164,204,254,298,340,387,435",
+                        "endColumns": "57,50,39,49,43,41,46,47,46",
+                        "endOffsets": "108,159,199,249,293,335,382,430,477"
+                    }
+                }
+            ]
+        }
+    ]
+}

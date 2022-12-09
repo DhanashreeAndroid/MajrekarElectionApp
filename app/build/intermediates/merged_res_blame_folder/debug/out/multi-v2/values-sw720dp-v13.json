@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "voterSearch.app.SmdInfo.app-mergeDebugResources-10:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Majrekar\\newDevelopment2022\\MajrekarApp_ward\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "9,10,5,4,3,8,6,7",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "307,359,111,66,21,259,162,211",
+                        "endColumns": "50,40,49,43,43,46,47,46",
+                        "endOffsets": "353,395,156,105,60,301,205,253"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,147,197,241,284,331,379",
+                        "endColumns": "50,40,49,43,42,46,47,46",
+                        "endOffsets": "101,142,192,236,279,326,374,421"
+                    }
+                }
+            ]
+        }
+    ]
+}

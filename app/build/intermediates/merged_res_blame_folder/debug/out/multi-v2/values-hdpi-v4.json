@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "voterSearch.app.SmdInfo.app-mergeDebugResources-10:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL\\.gradle\\caches\\transforms-3\\5f993f815a4b59c143f209e0cec51d6e\\transformed\\appcompat-v7-27.1.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

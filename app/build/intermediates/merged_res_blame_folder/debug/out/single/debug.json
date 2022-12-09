@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_family_member_listing.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\family_member_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xxhdpi_ico_mic.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-xxhdpi\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_ico_mic.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-mdpi\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_share_preview.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\share_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_cross.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_alpha_voterlist_display.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\alpha_voterlist_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_prev.gif.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\prev.gif"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_list_item_surname_search.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\list_item_surname_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_greenborder.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\greenborder.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_cross.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_fillvotingcenter_listitem.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\fillvotingcenter_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_activity_fill_voting_center_list.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\activity_fill_voting_center_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_ico_mic.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-hdpi\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_building_part_2.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\building_part_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_voter_count.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\voter_count.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_search_details.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\search_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_printer_dyno.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\printer_dyno.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_ico_mic.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-ldpi\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_voter_listing.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\voter_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_list_back_change.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\list_back_change.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_cross.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_splash.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_back.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_alpha_voterlist_types.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\alpha_voterlist_types.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_logo1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_list_selector.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_border_edittext.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\border_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_logo1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_click.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\click.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_list_item_surname_count_lang.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\list_item_surname_count_lang.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_layout_list.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\layout_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_greenborder.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\greenborder.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_easy_search_filter.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\easy_search_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_logo1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_password_initial.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\password_initial.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_alpha_voterlist_filter.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\alpha_voterlist_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_fragment_lang_tab.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\fragment_lang_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_activity_building_lang_tab.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\activity_building_lang_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_lang_building_list.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\lang_building_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_search_details_for_deleted.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\search_details_for_deleted.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_printer.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\printer.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_next.gif.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\next.gif"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_activity_fill_voting_center.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\activity_fill_voting_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_back.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_image2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_alpha_voterlist_combine_filter.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\alpha_voterlist_combine_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\menu_splash.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-anydpi-v21_ico_mic.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-anydpi-v21\\ico_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_other_imp_info.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\other_imp_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_alpha_voterlist_sendmail_dialog.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\alpha_voterlist_sendmail_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_back.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_building_filter.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\building_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_botton_border.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\botton_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_image2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_building_address_listitem.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\building_address_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_slip.JPG.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\slip.JPG"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_greenborder.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\greenborder.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_ico_mic.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-xhdpi\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_building_part_1.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\building_part_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_prev.gif.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\prev.gif"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_image2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_button_selector.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_checkbox.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\checkbox.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_cross.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_text_border.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_button_back.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\button_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_list_item_with_checkbox.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\list_item_with_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_list_item_alphabet.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\list_item_alphabet.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_search_details_part_sr_filter.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\search_details_part_sr_filter.xml"
+    },
+    {
+        "merged": "voterSearch.app.SmdInfo.app-merged_res-12:/layout_alpha_voterlist_display.xml.flat",
+        "source": "voterSearch.app.SmdInfo.app-main-14:/layout/alpha_voterlist_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_click.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\click.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_building_part_3.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\building_part_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_printer_listing.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\printer_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_image2.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_next.gif.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\next.gif"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_search_details_part_sr.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\search_details_part_sr.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_check.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\check.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_logo1.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\logo1.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xxxhdpi_ico_mic.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-pngs-7:\\drawable-xxxhdpi\\ico_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_first_page.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\first_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-hdpi_back.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-hdpi\\back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\layout_alphabet_listing.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\layout\\alphabet_listing.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-xhdpi_greenborder.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-xhdpi\\greenborder.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-ldpi_click.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-ldpi\\click.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable_list_back.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable\\list_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-merged_res-12:\\drawable-mdpi_click.jpg.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.3.3\\voterSearch.app.SmdInfo.app-main-14:\\drawable-mdpi\\click.jpg"
+    }
+]

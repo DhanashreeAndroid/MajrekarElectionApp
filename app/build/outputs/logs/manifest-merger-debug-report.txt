@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\228d9a4f9228f08286f2654baa3d78df\transformed\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\061cae982c26f38dbb7aade8274dca5f\transformed\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\c43fe4c2b6d60ed1bc8d1430be99eb43\transformed\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\5f993f815a4b59c143f209e0cec51d6e\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\0bce24ba482c20968bca9a4068d9c835\transformed\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\04a8993ae06de3fccb62ec33d57facb8\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\83270172355f80ccba0094a4fecf7344\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\4bcfb854b3e269c386149a27d14e61c0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\1e17f6ea78089b65243a5f4230217fa5\transformed\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\0b38f6603e5530af4b0ff046bd53e78e\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\63a8b4e01dd3b77b5f13b0d1a8745736\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\b820356669a6f4d5cdd1ab8c4d47e753\transformed\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\a5c45c9bde8c5d311accfc8dea9f7d73\transformed\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\f6ca9f1aa8d11e4c596890af3a150313\transformed\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:1-169:12
+	package
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\228d9a4f9228f08286f2654baa3d78df\transformed\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\228d9a4f9228f08286f2654baa3d78df\transformed\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\061cae982c26f38dbb7aade8274dca5f\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\061cae982c26f38dbb7aade8274dca5f\transformed\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\c43fe4c2b6d60ed1bc8d1430be99eb43\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\c43fe4c2b6d60ed1bc8d1430be99eb43\transformed\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\5f993f815a4b59c143f209e0cec51d6e\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\5f993f815a4b59c143f209e0cec51d6e\transformed\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\0bce24ba482c20968bca9a4068d9c835\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\0bce24ba482c20968bca9a4068d9c835\transformed\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\04a8993ae06de3fccb62ec33d57facb8\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\04a8993ae06de3fccb62ec33d57facb8\transformed\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\83270172355f80ccba0094a4fecf7344\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\83270172355f80ccba0094a4fecf7344\transformed\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\4bcfb854b3e269c386149a27d14e61c0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\4bcfb854b3e269c386149a27d14e61c0\transformed\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\1e17f6ea78089b65243a5f4230217fa5\transformed\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\1e17f6ea78089b65243a5f4230217fa5\transformed\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\0b38f6603e5530af4b0ff046bd53e78e\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\0b38f6603e5530af4b0ff046bd53e78e\transformed\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DELL\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\63a8b4e01dd3b77b5f13b0d1a8745736\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\63a8b4e01dd3b77b5f13b0d1a8745736\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\b820356669a6f4d5cdd1ab8c4d47e753\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\b820356669a6f4d5cdd1ab8c4d47e753\transformed\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\a5c45c9bde8c5d311accfc8dea9f7d73\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\a5c45c9bde8c5d311accfc8dea9f7d73\transformed\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\f6ca9f1aa8d11e4c596890af3a150313\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DELL\.gradle\caches\transforms-3\f6ca9f1aa8d11e4c596890af3a150313\transformed\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.INTERNET
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:17:5-18:47
+	tools:ignore
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:17:22-81
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:19:5-69
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:19:22-66
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:21:5-79
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:21:22-76
+supports-screens
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:23:5-28:40
+	android:largeScreens
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:25:9-36
+	android:smallScreens
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:27:9-36
+	android:normalScreens
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:26:9-37
+	android:xlargeScreens
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:28:9-37
+	android:anyDensity
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:24:9-34
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:29:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:30:5-80
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:30:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:32:22-78
+application
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:34:5-167:19
+	android:label
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:38:9-41
+	android:largeHeap
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:39:9-33
+	android:icon
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:37:9-45
+	android:allowBackup
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:40:9-40
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:35:9-33
+activity#voterSearch.app.SmdInfo.Majrekar
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:41:9-51:20
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:43:13-45
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:45:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:42:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:49:27-74
+activity#voterSearch.app.SmdInfo.First_Page
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:52:9-55:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:54:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:55:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:53:13-39
+activity#voterSearch.app.SmdInfo.Lang_BuildingList
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:56:9-59:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:58:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:59:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:57:13-46
+activity#voterSearch.app.SmdInfo.Voter_Count
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:60:9-63:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:62:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:63:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:61:13-40
+activity#voterSearch.app.SmdInfo.Alphabet_Listing
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:64:9-67:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:66:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:67:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:65:13-45
+activity#voterSearch.app.SmdInfo.Voter_Listing
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:68:9-71:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:71:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:69:13-42
+activity#voterSearch.app.SmdInfo.Search_Details
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:72:9-75:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:74:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:75:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:73:13-43
+activity#voterSearch.app.SmdInfo.Search_Details_Part_Sr
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:76:9-79:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:78:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:79:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:77:13-51
+activity#voterSearch.app.SmdInfo.Search_Details_Part_Sr_Filter
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:80:9-83:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:83:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:81:13-58
+activity#voterSearch.app.SmdInfo.Search_Details_For_Deleted
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:84:9-88:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:86:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:88:13-67
+	android:theme
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:87:13-48
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:85:13-55
+activity#voterSearch.app.SmdInfo.Printer_Listing
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:89:9-92:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:91:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:92:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:90:13-44
+activity#voterSearch.app.SmdInfo.Printer_CIE_DYNO_4807
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:93:9-96:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:95:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:96:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:94:13-50
+activity#voterSearch.app.SmdInfo.Printer
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:97:9-100:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:99:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:100:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:98:13-36
+activity#voterSearch.app.SmdInfo.Share_Preview
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:101:9-104:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:103:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:104:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:102:13-42
+activity#voterSearch.app.SmdInfo.Other_Imp_Info
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:105:9-108:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:107:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:108:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:106:13-43
+activity#voterSearch.app.SmdInfo.Building_Filter
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:109:9-112:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:111:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:112:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:110:13-44
+activity#voterSearch.app.SmdInfo.Building_Part_1
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:113:9-116:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:115:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:116:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:114:13-44
+activity#voterSearch.app.SmdInfo.Building_Part_2
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:117:9-120:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:119:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:120:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:118:13-44
+activity#voterSearch.app.SmdInfo.Building_Part_3
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:121:9-124:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:123:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:124:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:122:13-44
+activity#voterSearch.app.SmdInfo.Building_Fullvidhan_2
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:125:9-128:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:127:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:128:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:126:13-50
+activity#voterSearch.app.SmdInfo.Alpha_VoterList_Types
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:129:9-132:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:131:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:132:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:130:13-50
+activity#voterSearch.app.SmdInfo.Alpha_VoterList_first_Filter
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:133:9-136:66
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:135:9-45
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:136:9-63
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:134:9-53
+activity#voterSearch.app.SmdInfo.Alpha_VoterList_Filter
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:138:9-141:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:140:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:141:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:139:13-51
+activity#voterSearch.app.SmdInfo.Alpha_VoterList_Combine_Filter
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:142:9-145:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:144:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:145:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:143:13-59
+activity#voterSearch.app.SmdInfo.Alpha_VoterList_Display
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:146:9-149:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:148:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:149:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:147:13-52
+activity#voterSearch.app.SmdInfo.EasySearchFilter
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:150:9-153:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:152:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:153:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:151:13-45
+activity#voterSearch.app.SmdInfo.Family_Member_Listing
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:154:9-157:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:156:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:157:13-67
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:155:13-50
+activity#voterSearch.app.SmdInfo.FillVotingCenterActivity
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:158:9-62
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:158:19-59
+activity#voterSearch.app.SmdInfo.FillVotingCenterListActivity
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:159:9-75
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:159:19-63
+activity#voterSearch.app.SmdInfo.DeviceList
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:160:9-48
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:160:19-45
+activity#voterSearch.app.SmdInfo.Lang_BuildingTabs
+ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:162:9-166:70
+	android:screenOrientation
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:164:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:166:13-67
+	android:theme
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:165:13-57
+	android:name
+		ADDED from D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:163:13-46

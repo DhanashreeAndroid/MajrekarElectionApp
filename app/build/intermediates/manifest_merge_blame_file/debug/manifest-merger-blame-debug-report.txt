@@ -1,0 +1,330 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="voterSearch.app.SmdInfo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:8:5-10:41
+8        android:minSdkVersion="15"
+8-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:9:9-35
+9        android:targetSdkVersion="27" />
+9-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:10:9-38
+10
+11    <uses-permission android:name="android.permission.SEND_SMS" />
+11-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:12:5-67
+11-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:12:22-64
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:13:5-67
+12-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:13:22-64
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:14:5-74
+13-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:14:22-71
+14    <uses-permission android:name="android.permission.BLUETOOTH" />
+14-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:15:5-68
+14-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:15:22-65
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:16:5-81
+15-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:16:22-78
+16    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+16-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:17:5-18:47
+16-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:17:22-81
+17    <uses-permission android:name="android.permission.CALL_PHONE" />
+17-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:19:5-69
+17-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:19:22-66
+18    <!-- Network State Permissions -->
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:21:5-79
+19-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:21:22-76
+20
+21    <supports-screens
+21-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:23:5-28:40
+22        android:anyDensity="true"
+22-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:24:9-34
+23        android:largeScreens="true"
+23-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:25:9-36
+24        android:normalScreens="true"
+24-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:26:9-37
+25        android:smallScreens="true"
+25-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:27:9-36
+26        android:xlargeScreens="true" />
+26-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:28:9-37
+27
+28    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+28-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:29:5-75
+28-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:29:22-72
+29    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+29-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:30:5-80
+29-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:30:22-77
+30    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+30-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:32:5-81
+30-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:32:22-78
+31
+32    <application
+32-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:34:5-167:19
+33        android:name="voterSearch.app.SmdInfo.AppClass"
+33-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:35:9-33
+34        android:allowBackup="true"
+34-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:36:9-35
+35        android:debuggable="true"
+36        android:icon="@drawable/ic_launcher"
+36-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:37:9-45
+37        android:label="@string/app_name"
+37-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:38:9-41
+38        android:largeHeap="true"
+38-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:39:9-33
+39        android:theme="@style/AppTheme" >
+39-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:40:9-40
+40        <activity
+40-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:41:9-51:20
+41            android:name="voterSearch.app.SmdInfo.Majrekar"
+41-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:42:13-37
+42            android:label="@string/app_name"
+42-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:43:13-45
+43            android:screenOrientation="portrait"
+43-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:44:13-49
+44            android:windowSoftInputMode="stateHidden|adjustResize" >
+44-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:45:13-67
+45            <intent-filter>
+45-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:46:13-50:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:47:17-69
+46-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:47:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:49:17-77
+48-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:49:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:52:9-55:70
+52            android:name="voterSearch.app.SmdInfo.First_Page"
+52-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:53:13-39
+53            android:screenOrientation="portrait"
+53-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:54:13-49
+54            android:windowSoftInputMode="stateHidden|adjustResize" />
+54-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:55:13-67
+55        <activity
+55-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:56:9-59:70
+56            android:name="voterSearch.app.SmdInfo.Lang_BuildingList"
+56-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:57:13-46
+57            android:screenOrientation="portrait"
+57-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:58:13-49
+58            android:windowSoftInputMode="stateHidden|adjustResize" />
+58-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:59:13-67
+59        <activity
+59-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:60:9-63:70
+60            android:name="voterSearch.app.SmdInfo.Voter_Count"
+60-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:61:13-40
+61            android:screenOrientation="portrait"
+61-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:62:13-49
+62            android:windowSoftInputMode="stateHidden|adjustResize" />
+62-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:63:13-67
+63        <activity
+63-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:64:9-67:70
+64            android:name="voterSearch.app.SmdInfo.Alphabet_Listing"
+64-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:65:13-45
+65            android:screenOrientation="portrait"
+65-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:66:13-49
+66            android:windowSoftInputMode="stateHidden|adjustResize" />
+66-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:67:13-67
+67        <activity
+67-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:68:9-71:70
+68            android:name="voterSearch.app.SmdInfo.Voter_Listing"
+68-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:69:13-42
+69            android:screenOrientation="portrait"
+69-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:70:13-49
+70            android:windowSoftInputMode="stateHidden|adjustResize" />
+70-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:71:13-67
+71        <activity
+71-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:72:9-75:70
+72            android:name="voterSearch.app.SmdInfo.Search_Details"
+72-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:73:13-43
+73            android:screenOrientation="portrait"
+73-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:74:13-49
+74            android:windowSoftInputMode="stateHidden|adjustResize" />
+74-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:75:13-67
+75        <activity
+75-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:76:9-79:70
+76            android:name="voterSearch.app.SmdInfo.Search_Details_Part_Sr"
+76-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:77:13-51
+77            android:screenOrientation="portrait"
+77-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:78:13-49
+78            android:windowSoftInputMode="stateHidden|adjustResize" />
+78-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:79:13-67
+79        <activity
+79-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:80:9-83:70
+80            android:name="voterSearch.app.SmdInfo.Search_Details_Part_Sr_Filter"
+80-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:81:13-58
+81            android:screenOrientation="portrait"
+81-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:82:13-49
+82            android:windowSoftInputMode="stateHidden|adjustResize" />
+82-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:83:13-67
+83        <activity
+83-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:84:9-88:70
+84            android:name="voterSearch.app.SmdInfo.Search_Details_For_Deleted"
+84-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:85:13-55
+85            android:screenOrientation="portrait"
+85-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:86:13-49
+86            android:theme="@style/AppBaseTheme"
+86-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:87:13-48
+87            android:windowSoftInputMode="stateHidden|adjustResize" />
+87-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:88:13-67
+88        <activity
+88-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:89:9-92:70
+89            android:name="voterSearch.app.SmdInfo.Printer_Listing"
+89-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:90:13-44
+90            android:screenOrientation="portrait"
+90-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:91:13-49
+91            android:windowSoftInputMode="stateHidden|adjustResize" />
+91-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:92:13-67
+92        <activity
+92-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:93:9-96:70
+93            android:name="voterSearch.app.SmdInfo.Printer_CIE_DYNO_4807"
+93-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:94:13-50
+94            android:screenOrientation="portrait"
+94-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:95:13-49
+95            android:windowSoftInputMode="stateHidden|adjustResize" />
+95-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:96:13-67
+96        <activity
+96-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:97:9-100:70
+97            android:name="voterSearch.app.SmdInfo.Printer"
+97-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:98:13-36
+98            android:screenOrientation="portrait"
+98-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:99:13-49
+99            android:windowSoftInputMode="stateHidden|adjustResize" />
+99-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:100:13-67
+100        <activity
+100-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:101:9-104:70
+101            android:name="voterSearch.app.SmdInfo.Share_Preview"
+101-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:102:13-42
+102            android:screenOrientation="portrait"
+102-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:103:13-49
+103            android:windowSoftInputMode="stateHidden|adjustResize" />
+103-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:104:13-67
+104        <activity
+104-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:105:9-108:70
+105            android:name="voterSearch.app.SmdInfo.Other_Imp_Info"
+105-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:106:13-43
+106            android:screenOrientation="portrait"
+106-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:107:13-49
+107            android:windowSoftInputMode="stateHidden|adjustResize" />
+107-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:108:13-67
+108        <activity
+108-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:109:9-112:70
+109            android:name="voterSearch.app.SmdInfo.Building_Filter"
+109-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:110:13-44
+110            android:screenOrientation="portrait"
+110-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:111:13-49
+111            android:windowSoftInputMode="stateHidden|adjustResize" />
+111-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:112:13-67
+112        <activity
+112-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:113:9-116:70
+113            android:name="voterSearch.app.SmdInfo.Building_Part_1"
+113-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:114:13-44
+114            android:screenOrientation="portrait"
+114-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:115:13-49
+115            android:windowSoftInputMode="stateHidden|adjustResize" />
+115-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:116:13-67
+116        <activity
+116-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:117:9-120:70
+117            android:name="voterSearch.app.SmdInfo.Building_Part_2"
+117-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:118:13-44
+118            android:screenOrientation="portrait"
+118-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:119:13-49
+119            android:windowSoftInputMode="stateHidden|adjustResize" />
+119-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:120:13-67
+120        <activity
+120-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:121:9-124:70
+121            android:name="voterSearch.app.SmdInfo.Building_Part_3"
+121-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:122:13-44
+122            android:screenOrientation="portrait"
+122-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:123:13-49
+123            android:windowSoftInputMode="stateHidden|adjustResize" />
+123-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:124:13-67
+124        <activity
+124-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:125:9-128:70
+125            android:name="voterSearch.app.SmdInfo.Building_Fullvidhan_2"
+125-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:126:13-50
+126            android:screenOrientation="portrait"
+126-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:127:13-49
+127            android:windowSoftInputMode="stateHidden|adjustResize" />
+127-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:128:13-67
+128        <activity
+128-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:129:9-132:70
+129            android:name="voterSearch.app.SmdInfo.Alpha_VoterList_Types"
+129-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:130:13-50
+130            android:screenOrientation="portrait"
+130-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:131:13-49
+131            android:windowSoftInputMode="stateHidden|adjustResize" />
+131-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:132:13-67
+132        <activity
+132-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:133:9-136:66
+133            android:name="voterSearch.app.SmdInfo.Alpha_VoterList_first_Filter"
+133-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:134:9-53
+134            android:screenOrientation="portrait"
+134-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:135:9-45
+135            android:windowSoftInputMode="stateHidden|adjustResize" />
+135-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:136:9-63
+136        <activity
+136-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:138:9-141:70
+137            android:name="voterSearch.app.SmdInfo.Alpha_VoterList_Filter"
+137-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:139:13-51
+138            android:screenOrientation="portrait"
+138-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:140:13-49
+139            android:windowSoftInputMode="stateHidden|adjustResize" />
+139-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:141:13-67
+140        <activity
+140-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:142:9-145:70
+141            android:name="voterSearch.app.SmdInfo.Alpha_VoterList_Combine_Filter"
+141-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:143:13-59
+142            android:screenOrientation="portrait"
+142-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:144:13-49
+143            android:windowSoftInputMode="stateHidden|adjustResize" />
+143-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:145:13-67
+144        <activity
+144-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:146:9-149:70
+145            android:name="voterSearch.app.SmdInfo.Alpha_VoterList_Display"
+145-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:147:13-52
+146            android:screenOrientation="portrait"
+146-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:148:13-49
+147            android:windowSoftInputMode="stateHidden|adjustResize" />
+147-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:149:13-67
+148        <activity
+148-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:150:9-153:70
+149            android:name="voterSearch.app.SmdInfo.EasySearchFilter"
+149-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:151:13-45
+150            android:screenOrientation="portrait"
+150-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:152:13-49
+151            android:windowSoftInputMode="stateHidden|adjustResize" />
+151-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:153:13-67
+152        <activity
+152-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:154:9-157:70
+153            android:name="voterSearch.app.SmdInfo.Family_Member_Listing"
+153-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:155:13-50
+154            android:screenOrientation="portrait"
+154-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:156:13-49
+155            android:windowSoftInputMode="stateHidden|adjustResize" />
+155-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:157:13-67
+156        <activity android:name="voterSearch.app.SmdInfo.FillVotingCenterActivity" />
+156-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:158:9-62
+156-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:158:19-59
+157        <activity android:name="voterSearch.app.SmdInfo.FillVotingCenterListActivity" />
+157-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:159:9-75
+157-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:159:19-63
+158        <activity android:name="voterSearch.app.SmdInfo.DeviceList" />
+158-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:160:9-48
+158-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:160:19-45
+159        <activity
+159-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:162:9-166:70
+160            android:name="voterSearch.app.SmdInfo.Lang_BuildingTabs"
+160-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:163:13-46
+161            android:screenOrientation="portrait"
+161-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:164:13-49
+162            android:theme="@style/Theme.AppCompat.Light"
+162-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:165:13-57
+163            android:windowSoftInputMode="stateHidden|adjustResize" />
+163-->D:\Majrekar\newDevelopment2022\MajrekarApp_ward\app\src\main\AndroidManifest.xml:166:13-67
+164    </application>
+165
+166</manifest>
