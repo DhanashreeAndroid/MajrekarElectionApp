@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Black"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10dp">
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Majrekar&apos;s Voters Management Systems"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="normal"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/voter_search_middle"
+            android:textColor="@android:color/white"
+            android:textStyle="normal"
+            android:textSize="@dimen/text_size_medium" />
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Contact - 9892862864/9867262864"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+    </LinearLayout>
+    
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="35dp"
+       android:layout_gravity="center_horizontal"
+       android:layout_marginTop="6dp"
+       android:background="@color/Black"
+       android:orientation="vertical" >
+
+       <TextView
+           android:id="@+id/txt4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:layout_marginTop="4dp"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:textColor="@color/white"
+           android:textSize="18dp" />
+
+    </LinearLayout>
+
+<ScrollView
+     android:id="@+id/scrollView1"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+     
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+    
+	<TextView
+       android:id="@+id/txt5"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:layout_marginTop="2dp"
+       android:layout_weight="0"
+       android:gravity="bottom"
+       android:text="Click on name to view details"
+       android:textColor="#ff8800"
+       android:textAppearance="?android:attr/textAppearanceMedium" />
+	   
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_weight="1"
+        android:choiceMode="singleChoice"
+        android:fadeScrollbars="false"
+        android:scrollbarAlwaysDrawVerticalTrack="true" >
+ 
+  	 </ListView>
+   
+ <TextView
+       android:id="@+id/txt8"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:layout_marginTop="10dp"
+       android:layout_weight="0"
+       android:gravity="bottom"
+       android:text="Scroll to view all options"
+       android:textAppearance="?android:attr/textAppearanceMedium"
+       android:textColor="#ff8800" />
+     
+   <Button
+       android:id="@+id/btnCall"
+       style="?android:attr/buttonStyleSmall"
+       android:layout_width="150dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:layout_marginLeft="5dp"
+       android:layout_marginTop="5dp"
+       android:padding="4dp"
+       android:text="Call"
+       android:textAppearance="?android:attr/textAppearanceMedium" />
+   
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="5dp" >
+
+        <TextView
+            android:id="@+id/txtSms"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Mobile No :"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtSms"
+            android:layout_width="170dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="10"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSendSMS"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/button_selector"
+            android:padding="2dp"
+            android:text=">"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp" >
+        
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="E-Mail :"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtEmail"
+            android:layout_width="170dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+           
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSendEmail"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/button_selector"
+            android:padding="2dp"
+            android:text=">"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+ </LinearLayout>
+ 
+      <TextView
+          android:id="@+id/txtmsg1"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:text="Send above all family voter information"
+          android:textAppearance="?android:attr/textAppearanceSmall"
+          android:textSize="16dp" />
+      
+        <TextView
+            android:id="@+id/txtmsg2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:text="by SMS and E-Mail"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="16dp" />
+        
+
+   
+     <LinearLayout
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_marginTop="10dp"
+         android:orientation="horizontal" >
+        
+     <Button
+        android:id="@+id/btnPrint"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_selector"
+        android:padding="4dp"
+        android:text="Print"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" />
+     
+     <Button
+         android:id="@+id/btnShare"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="150dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_marginBottom="10dp"
+         android:layout_marginLeft="5dp"
+         android:layout_marginTop="10dp"
+         android:background="@drawable/button_selector"
+         android:padding="4dp"
+         android:text="Share"
+         android:textAppearance="?android:attr/textAppearanceMedium"
+         android:textColor="@color/white" />
+     
+     </LinearLayout>
+   
+
+ 	</LinearLayout>
+</ScrollView>
+          
+</LinearLayout>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Black"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10dp">
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Majrekar&apos;s Voters Management Systems"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="normal"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/voter_search_middle"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Contact - 9892862864/9867262864"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+    </LinearLayout>
+    
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="35dp"
+       android:layout_gravity="center_horizontal"
+       android:layout_marginTop="6dp"
+       android:background="@color/Black"
+       android:orientation="vertical" >
+
+       <TextView
+           android:id="@+id/txt4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:layout_marginTop="4dp"
+           android:textAppearance="?android:attr/textAppearanceSmall"
+           android:textColor="@color/white"
+           android:textSize="18dp" />
+
+    </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="320dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginTop="10dp"
+       android:background="@drawable/greenborder"
+       android:orientation="horizontal"
+       android:gravity="center_vertical">
+
+       <EditText
+           android:id="@+id/edtSearch"
+           android:layout_width="270dp"
+           android:layout_height="35dp"
+           android:layout_gravity="center"
+           android:layout_marginBottom="3dp"
+           android:layout_marginLeft="3dp"
+           android:background="@drawable/list_back"
+           android:ems="10"
+           android:hint="Surname | Name | Middle Name"
+           android:inputType="textVisiblePassword"
+           android:gravity="center_vertical"
+           android:textAppearance="?android:attr/textAppearanceMedium" />
+
+       <Button
+           android:id="@+id/btnSearch"
+           style="?android:attr/buttonStyleSmall"
+           android:layout_width="25dp"
+           android:layout_height="25dp"
+           android:layout_marginBottom="3dp"
+           android:layout_marginLeft="8dp"
+           android:layout_marginRight="5dp"
+           android:layout_marginTop="3dp"
+           android:background="@drawable/search" />
+
+       <ImageButton
+           android:id="@+id/btnSpeak"
+           android:layout_width="30dp"
+           android:layout_height="30dp"
+           android:background="@null"
+           android:layout_gravity="center_vertical"
+           android:src="@drawable/ico_mic"
+           android:layout_marginLeft="5dp"
+           android:visibility="gone"/>
+
+   </LinearLayout>
+   
+   <ListView
+       android:id="@+id/lv"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="2dp"
+       android:choiceMode="singleChoice"
+       android:drawSelectorOnTop="false"
+       android:fadingEdgeLength="10dp"
+       android:minHeight="?android:attr/listPreferredItemHeight" >
+ 
+   </ListView>
+    
+</LinearLayout>

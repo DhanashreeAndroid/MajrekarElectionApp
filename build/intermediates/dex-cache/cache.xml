@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\AndroidStudioProject\MajrekarApp\app\libs\ZQPrinter.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ebbf3da98f80bf172a7ddca6c7ffe57d3832ebdc">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\ZQPrinter_59bb63dbfe51cbf030821f7613e4f65b0b72b7a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\XYZ\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_997e82133ee155ad56082fe0507c09c293044769.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProject\MajrekarApp\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\additionnal_1ce1b7e5ae9541eff0693bd8d1e1471cd1bbe07a.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProject\MajrekarApp\app\libs\mail.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\mail_6550ce83d81728f71084ae12fe3afa934d28a9c7.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProject\MajrekarApp\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies_b931aeb51061512ffaf4eee45248aadc9c38e27e.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProject\MajrekarApp\app\libs\activation.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\activation_5d77e9d58c5461816305e8a0b953fb7b01fbffa6.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProject\MajrekarApp\app\libs\itextpdf-5.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b46a7995243f0bbd9279b359b3ce00e993adc057">
+        <dex dex="C:\AndroidStudioProject\MajrekarApp\app\build\intermediates\pre-dexed\debug\itextpdf-5.2.1_8ab20892e5194db985e95c54c9c1d88d4a071fbd.jar" />
+    </item>
+
+</items>

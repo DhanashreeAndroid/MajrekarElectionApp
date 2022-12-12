@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context="voterSearch.app.SmdInfo.FillVotingCenterListActivity">
+
+    <LinearLayout
+        android:id="@+id/headercontainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/Black"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="voting center"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/text_size_small" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Ward"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/text_size_small" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Sr. From"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/text_size_small" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Sr. Upto"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_gravity="center_vertical"
+            android:textSize="@dimen/text_size_small" />
+
+
+
+    </LinearLayout>
+
+
+    <ListView
+        android:id="@+id/lv_votingCenter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/headercontainer"
+        android:layout_above="@+id/buttonContainer_voting_list"
+        android:layout_margin="10dp"
+        android:choiceMode="singleChoice"
+        android:drawSelectorOnTop="false"
+        android:fadingEdgeLength="10dp"
+        android:divider="@color/transparent_bg"
+        android:dividerHeight="10dp"
+        android:minHeight="?android:attr/listPreferredItemHeight" >
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/buttonContainer_voting_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btnVotingCenterShare"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/button_selector"
+            android:padding="4dp"
+            android:text="Share"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnVotingCenterUpdate"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/button_selector"
+            android:padding="4dp"
+            android:text="Update All"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/white"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

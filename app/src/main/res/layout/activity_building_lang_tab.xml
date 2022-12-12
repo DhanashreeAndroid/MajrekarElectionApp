@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back">
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Black"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10dp">
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Majrekar&apos;s Voters Management Systems"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="normal"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/voter_search_middle"
+            android:textColor="@android:color/white"
+            android:textStyle="normal"
+            android:textSize="@dimen/text_size_medium" />
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Contact - 9892862864/9867262864"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_build_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bilding name"
+        android:padding="@dimen/padding_10dp"></TextView>
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabs_boards"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="left|bottom"
+        android:layout_alignParentBottom="true"
+        android:background="@color/LightGrey"
+        android:clickable="true"
+        app:tabGravity="fill"
+        app:tabIndicatorColor="@color/black"
+        app:tabIndicatorHeight="5dp"
+        app:tabMinWidth="120dp"
+        android:overScrollMode="never"
+        app:tabMode="scrollable"
+        app:tabSelectedTextColor="@color/black"
+        app:tabTextAppearance="?android:textAppearanceMedium"
+        app:tabTextColor="@color/gray" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager_courses"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/mainContainer"
+        android:layout_gravity="center_horizontal"
+        android:overScrollMode="never"
+        android:clipChildren="true" />
+
+</LinearLayout>

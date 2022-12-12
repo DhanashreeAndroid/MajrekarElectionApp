@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back"
+    tools:context="voterSearch.app.SmdInfo.FillVotingCenterActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/txtVotingcenter"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Voting Center No."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtVotingcenter"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:layout_marginRight="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/txtVotigAdd"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Voting Address"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtVotingAdd"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:inputType="text"
+            android:maxLines="10"
+            android:layout_marginRight="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+            </EditText>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/txtWardNo"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Ward No."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtWardNo"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:layout_marginRight="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+        </EditText>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/txtSrFrom"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Serial No. From"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtSrFrom"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:layout_marginRight="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:weightSum="3">
+
+        <TextView
+            android:id="@+id/txtSrTo"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Serial No. Upto"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtSrTo"
+            android:layout_width="0dp"
+            android:layout_weight="1.8"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:inputType="number"
+            android:layout_marginRight="5dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+        </EditText>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSave"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_selector"
+        android:padding="4dp"
+        android:text="Save"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" />
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="10dp">
+
+    <TextView
+        android:id="@+id/txtSaveMessage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:text="Please fill above all details"
+        android:layout_above="@+id/btnViewAll"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btnViewAll"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/button_selector"
+        android:padding="4dp"
+        android:text="View All"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
+
+</LinearLayout>

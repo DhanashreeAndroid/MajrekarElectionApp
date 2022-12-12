@@ -1,0 +1,13 @@
+<resources>
+
+
+    <dimen name="padding_5dp">10dp</dimen>
+    <dimen name="padding_10dp">15dp</dimen>
+    <dimen name="next_button_width">170dp</dimen>
+    <dimen name="text_size_medium">20dp</dimen>
+    <dimen name="text_size_small">15dp</dimen>
+    <dimen name="text_size_large">23dp</dimen>
+    <dimen name="button_width_205dp">215dp</dimen>
+    <dimen name="dimen_2dp">5dp</dimen>
+
+</resources>

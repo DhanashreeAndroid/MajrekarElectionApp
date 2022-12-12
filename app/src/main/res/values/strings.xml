@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlipDombivali</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="voter_search_middle">Search Mobile Software</string>
+    <string name="loto_font">Lato-Regular.ttf</string>
+
+    <string name="bt_not_supported">Device does not support Bluetooth</string>
+    <string name="ready_for_conn">Ready for Connection</string>
+    <string name="printer_not_conn">printer not connected</string>
+    <string name="printer_connecting">printer connecting ...</string>
+    <string name="printer_connected">printer connected</string>
+    <string name="printer_saved">Printer Saved as Favorite</string>
+</resources>

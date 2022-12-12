@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Black"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_10dp">
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Majrekar&apos;s Voters Management Systems"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="normal"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/voter_search_middle"
+            android:textColor="@android:color/white"
+            android:textStyle="normal"
+            android:textSize="@dimen/text_size_medium" />
+
+        <TextView
+            android:id="@+id/txt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Contact - 9892862864/9867262864"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="bold"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+ <ScrollView
+     android:id="@+id/scrollView1"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+     
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+        
+    <LinearLayout
+        android:id="@+id/linearlayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingLeft="5dp"
+            android:paddingTop="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtNameMarathi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingLeft="5dp"
+            android:paddingTop="10dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <TextView
+            android:id="@+id/txtAddressMarathi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+       <TextView
+            android:id="@+id/txtAgeGender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtVidhansabha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtPartNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtSerialNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+       <TextView
+           android:id="@+id/txtVotingCenterAddress"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:background="@drawable/text_border"
+           android:paddingBottom="3dp"
+           android:paddingLeft="5dp"
+           android:paddingTop="3dp"
+           android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:id="@+id/txtVotingCenterAddressMarathi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/text_border"
+            android:paddingBottom="3dp"
+            android:paddingLeft="5dp"
+            android:paddingTop="3dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+    </LinearLayout>
+
+       <LinearLayout     
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="horizontal">
+          
+       <Button
+           android:id="@+id/btnFamilySearch"
+           style="?android:attr/buttonStyleSmall"
+           android:layout_width="150dp"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="5dp"
+           android:layout_marginTop="5dp"
+           android:background="@drawable/button_selector"
+           android:padding="4dp"
+           android:text="Family Search"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:textColor="@color/white" />
+
+     <Button
+         android:id="@+id/btnCall"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="150dp"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="5dp"
+         android:layout_marginTop="5dp"
+         android:padding="4dp"
+         android:text="Call"
+         android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     </LinearLayout>
+     
+     
+    <TextView
+        android:id="@+id/txtmsg1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Click for above voter family votes"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <TextView
+            android:id="@+id/txtSms"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Mobile No :"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtSms"
+            android:layout_width="170dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="10"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSendSMS"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/button_selector"
+            android:padding="2dp"
+            android:text=">"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp" >
+        
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="E-Mail :"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/edtEmail"
+            android:layout_width="170dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+           
+        </EditText>
+
+        <Button
+            android:id="@+id/btnSendEmail"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/button_selector"
+            android:padding="2dp"
+            android:text=">"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+ </LinearLayout>
+ 
+      <TextView
+          android:id="@+id/txtmsg2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:text="Send above voter information by SMS and E-Mail"
+          android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+     <LinearLayout
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_marginTop="10dp"
+         android:orientation="horizontal" >
+        
+     <Button
+        android:id="@+id/btnPrint"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/button_selector"
+        android:padding="4dp"
+        android:text="Print"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/white" />
+     
+     <Button
+         android:id="@+id/btnShare"
+         style="?android:attr/buttonStyleSmall"
+         android:layout_width="150dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_marginBottom="10dp"
+         android:layout_marginLeft="5dp"
+         android:layout_marginTop="10dp"
+         android:background="@drawable/button_selector"
+         android:padding="4dp"
+         android:text="Share"
+         android:textAppearance="?android:attr/textAppearanceMedium"
+         android:textColor="@color/white" />
+     
+     </LinearLayout>
+
+     <RadioGroup
+         android:layout_width="fill_parent"
+         android:layout_height="55dp"
+         android:layout_marginTop="10dp"
+         android:gravity="center_vertical"
+         android:id="@+id/radioGroup"
+         android:orientation="horizontal">
+
+         <RadioButton
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Green"
+             android:id="@+id/radioGreen"
+             android:layout_gravity="center_horizontal"
+             android:checked="false"
+             android:textColor="@color/green"
+             android:textSize="25dp" />
+
+         <RadioButton
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Red"
+             android:id="@+id/radioRed"
+             android:textColor="@color/red"
+             android:layout_gravity="center_horizontal"
+             android:checked="false"
+             android:textSize="25dp"
+             android:layout_marginLeft="@dimen/padding_10dp"/>
+
+         <RadioButton
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="Orange"
+             android:id="@+id/radioOrange"
+             android:layout_gravity="center_horizontal"
+             android:checked="false"
+             android:textSize="25dp"
+             android:textColor="@color/Orange"
+             android:layout_marginLeft="@dimen/padding_10dp"/>
+
+     </RadioGroup>
+
+     <CheckBox
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Voted"
+         android:textSize="25dp"
+         android:layout_marginBottom="20dp">
+
+     </CheckBox>
+
+ </LinearLayout>
+</ScrollView>
+     
+
+    
+</LinearLayout>

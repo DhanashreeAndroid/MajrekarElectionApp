@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+
+        <Button
+            android:id="@+id/buttonOn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ON" />
+
+        <Button
+            android:id="@+id/buttonDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Make Discoverable" />
+
+        <Button
+            android:id="@+id/buttonSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Search" />
+
+        <Button
+            android:id="@+id/buttonOff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OFF" />
+
+    </LinearLayout>
+
+      <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" >
+
+       <TextView
+           android:id="@+id/textView1"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="2dp"
+           android:layout_weight="1"
+           android:text="Paired Devices"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:textStyle="bold" />
+
+       <TextView
+           android:id="@+id/textView2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="15dp"
+           android:layout_weight="1"
+           android:text="Detected Devices"
+           android:textAppearance="?android:attr/textAppearanceMedium"
+           android:textStyle="bold" />
+
+   </LinearLayout>
+   
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent" >
+
+       <ListView
+           android:id="@+id/listViewPaired"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_weight="1"
+           android:background="@color/Lavender"
+           android:divider="@color/LightSteelBlue"
+           android:dividerHeight="1dp" >
+
+       </ListView>
+
+       <ListView
+           android:id="@+id/listViewDetected"
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_weight="1"
+           android:background="@color/Khaki"
+           android:divider="@color/yellow"
+           android:dividerHeight="1dp" >
+
+       </ListView>
+
+   </LinearLayout>
+
+ 
+
+</LinearLayout>

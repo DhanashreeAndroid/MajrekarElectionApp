@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/padding_5dp"
+    android:paddingBottom="@dimen/padding_5dp"
+    android:paddingLeft="@dimen/padding_5dp"
+    android:paddingRight="@dimen/padding_5dp">
+
+    <TextView
+        android:id="@+id/txtAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_2dp"
+        android:layout_marginTop="@dimen/dimen_2dp"
+        android:text="Address"
+        android:textSize="@dimen/text_size_medium"
+        android:textColor="@color/Black" />
+
+    <TextView
+        android:id="@+id/txtTotalVoter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dimen_2dp"
+        android:layout_marginTop="@dimen/dimen_2dp"
+        android:text="Total Voter"
+        android:textColor="@color/LimeGreen"
+        android:textSize="@dimen/text_size_large" />
+
+</LinearLayout>
